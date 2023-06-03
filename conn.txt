@@ -1,0 +1,4 @@
+/Users/HARIHARAN.A/mongodb/bin/mongod.exe --dbpath=/Users/HARIHARAN.A/mongodb-data
+"Documents\project\COVID VACCINATION BOOKING\source"
+cd source
+node server.js
